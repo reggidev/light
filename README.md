@@ -5,7 +5,7 @@
 Landing page para gerenciamento de projetos eficiente e intuitivo
 O Light SaaS é uma plataforma projetada para melhorar a produtividade e eficiência no gerenciamento de projetos, ideal para equipes de todos os tamanhos
 
-## How it works
+## Como funciona
 
 Core stack: ReactJS + Vite + TailwindCSS
 
