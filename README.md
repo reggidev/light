@@ -9,11 +9,7 @@ O Light SaaS é uma plataforma projetada para melhorar a produtividade e eficiê
 
 Core stack: ReactJS + Vite + TailwindCSS
 
---
-
 O Light SaaS oferece uma interface intuitiva e personalizável que ajuda as equipes a gerenciar tarefas e projetos de forma eficiente. Com suporte para várias funcionalidades, a plataforma é projetada para se adaptar às necessidades específicas de cada usuário.
-
---
 
 ## Créditos
 
