@@ -1,4 +1,4 @@
-![light-saas-website](https://github.com/user-attachments/assets/ed83fd17-a8ec-483b-b527-95a393ed9445)
+![light-website-presentation](https://github.com/user-attachments/assets/64902680-6e06-45cd-a545-9de25057d8b5)
 
 # Light Saas - Landing Page 💡
 
